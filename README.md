@@ -2,6 +2,13 @@
 
 
 
+
+
+# NAMA : FIKRI RUSDINERZA
+# NIM : 09011382429166
+# KELAS : SKU2B
+
+
 # 1.Jelaskan Struktur Antar Hubungan dan Beri Contohnya? 
 Struktur antar hubungan merujuk pada pola atau mekanisme interaksi antara elemen-elemen dalam suatu sistem atau kelompok. Struktur ini dapat dijumpai dalam berbagai bidang, seperti masyarakat, ekonomi, politik, organisasi, maupun teknologi.Adapun contoh Struktur antar hubungan sebagai berikut.
 1. Struktur hierarki
